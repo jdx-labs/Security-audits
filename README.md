@@ -1,2 +1,2 @@
 # Security-audits
-Responsible, passive security research and documentation.
+Responsible, passive cybersecurity research and documentation.
